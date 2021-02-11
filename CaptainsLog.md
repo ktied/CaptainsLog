@@ -34,7 +34,7 @@ Rerun GSM at least one of those suckers
 
 # February 11, 2021 Thursday
 
-Cold today. figured out how to move this to git hopefully?
+Cold today. figured out how to move this to git hopefully? Personal note: learned about a dragon audiobook the kids love here
 
 To Do (end of week, let's be real)
 1. clean files nathan sent to add to earth engine
@@ -58,5 +58,6 @@ Save the session as an R specific format
 
 With the Kristen: I looked at a few pappers on the biomass ~ NDVI (or any remote sensing index) 
 Papers reveal this: 
-Liu (2017){https://www.nature.com/articles/s41598-017-04038-4}
+[Liu (2017)](https://www.nature.com/articles/s41598-017-04038-4)
  Used MODIS NVDI to estimate aboveground biomass (AGB). They also used field spec and it did pretty well (0.63 R^2) for the steppe (less well for a meadow). Used max NDVI for the year
+Serengeti Specific: [Anderson 2010](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/09-0739.1) Additionally, because we hypothesized that vegetation biomass and greenness would be relatively stable in hotspots over different seasons, we included the ratio of wet‐season : dry‐season NDVI. Mean annual rainfall was included as a predictor to understand the influence of climate on the presence of hotspots across Serengeti (Appendix A). 
