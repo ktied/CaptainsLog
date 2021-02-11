@@ -40,7 +40,7 @@ To Do (end of week, let's be real)
 1. clean files nathan sent to add to earth engine
 2. write to Daisy et al? 
 3. Get the Hyperion in the classifications
-4. 
+4. https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 learned something: about saving your R studio session info like the packages etc. 
 
@@ -58,6 +58,16 @@ Save the session as an R specific format
 
 With the Kristen: I looked at a few pappers on the biomass ~ NDVI (or any remote sensing index) 
 Papers reveal this: 
+
 [Liu (2017)](https://www.nature.com/articles/s41598-017-04038-4)
  Used MODIS NVDI to estimate aboveground biomass (AGB). They also used field spec and it did pretty well (0.63 R^2) for the steppe (less well for a meadow). Used max NDVI for the year
+
 Serengeti Specific: [Anderson 2010](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/09-0739.1) Additionally, because we hypothesized that vegetation biomass and greenness would be relatively stable in hotspots over different seasons, we included the ratio of wet‐season : dry‐season NDVI. Mean annual rainfall was included as a predictor to understand the influence of climate on the presence of hotspots across Serengeti (Appendix A). 
+
+
+https://link.springer.com/article/10.1007/s00300-014-1472-3 MODIS NDVI grazing 
+
+links: https://serengetidata.weebly.com/vegetation.html
+
+Simple dee dimple: [Schucknecht 2017](https://www.mdpi.com/2072-4292/9/5/463/htm) The phenology-based seasonal cumulative Normalised Difference Vegetation Index (cNDVI), computed from 10-day image composites of the Moderate-resolution Imaging Spectroradiometer (MODIS) NDVI data, was used as proxy for biomass production. A linear regression model was fitted with multi-annual field measurements of herbaceous biomass at the end of the growing season.
+- ed. note: this is v similar to crop stuff 
