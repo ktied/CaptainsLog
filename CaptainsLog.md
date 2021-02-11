@@ -9,14 +9,21 @@ Captains Log
 we discussed classifications using Planet, drone, sentinel, and Hyperion imagery 
 Costs and Benes of doing the weighted means instead of centroids for extracting data for dipteryx points. 
 
-Overall we can make a mask 
+Overall we can make a mask for BCI and I probably should 
 Shauhin is going to look at the planet bands w the hyperion - and I made a list of the Hyperion bands within the ranges of the planet bands 
 
 
-I will need to meet w Kristen
+## met w Kristen at 4pm
+We discussed the conflict paper and agreed to work on it for 3 days next week
+uncertain if we will include the vervets - they're interesting from a perspective of the psychological disconnect of feeling vervets are a huge problem. OR the distance/nuisance 
+Overreporting vervets since no other problems 
+
+We discussed her graduate student (Michael) and using the biomass surveys and ndvi.
+
+
 I would like to rerun my GSM classification for Nathan et al. SO I will view and open what he sent
 
-To Do: 
+## To Do: 
 Otherwise - I emailed the ForestGeo people for seedling data access after receiving email from stri
 Rerun GSM at least one of those suckers 
 
@@ -42,3 +49,6 @@ pander::pander(session_info_date)
 Save the session as an R specific format
 > sessioninfo::save.session(file="session_info.RSession", ...)
 > sessioninfo::restore.session(file="session_info.RSession", ...)
+
+
+With the Kristen: I looked at a few pappers on the biomass ~NDVI (or any remote sensing index) 
