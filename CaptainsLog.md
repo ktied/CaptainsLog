@@ -1,13 +1,18 @@
 Captain's Log
 
 
-# Feb 10 2021
+# Feb 10 2021, Wednesday
 
-Captains Log
+Captains Log,perfect enemy of good etc etc 
 
 ## met with Shauhin
 we discussed classifications using Planet, drone, sentinel, and Hyperion imagery 
 Costs and Benes of doing the weighted means instead of centroids for extracting data for dipteryx points. 
+- we would need to either download data or find a work around for the sampleRegions code: https://developers.google.com/earth-engine/apidocs/ee-image-sampleregions
+- Previously looked at cloud cover problems and masking: https://pdfs.semanticscholar.org/aff3/3f1e89db7e4fb7297b1719c9daeb3fb33731.pdf
+https://ntrs.nasa.gov/api/citations/20040031747/downloads/20040031747.pdf
+https://eo-learn.readthedocs.io/en/latest/eolearn.mask.cloud_mask.html
+https://github.com/ianeece/hyperion_preproc_gee_code/blob/master/atm_corr_and_cloud_masking.txt
 
 Overall we can make a mask for BCI and I probably should 
 Shauhin is going to look at the planet bands w the hyperion - and I made a list of the Hyperion bands within the ranges of the planet bands 
@@ -47,8 +52,11 @@ Reinstall the versions you need at a later date
 pander::pander(session_info_date)
 
 Save the session as an R specific format
-> sessioninfo::save.session(file="session_info.RSession", ...)
-> sessioninfo::restore.session(file="session_info.RSession", ...)
+'> sessioninfo::save.session(file="session_info.RSession", ...)
+> sessioninfo::restore.session(file="session_info.RSession", ...)'
 
 
-With the Kristen: I looked at a few pappers on the biomass ~NDVI (or any remote sensing index) 
+With the Kristen: I looked at a few pappers on the biomass ~ NDVI (or any remote sensing index) 
+Papers reveal this: 
+Liu (2017){https://www.nature.com/articles/s41598-017-04038-4}
+ Used MODIS NVDI to estimate aboveground biomass (AGB). They also used field spec and it did pretty well (0.63 R^2) for the steppe (less well for a meadow). Used max NDVI for the year
