@@ -1,7 +1,7 @@
 Captain's Log
 
 
-# Feb 10 2021, Wednesday
+# February 10 2021, Wednesday
 
 Captains Log,perfect enemy of good etc etc 
 
@@ -74,10 +74,19 @@ Simple dee dimple: [Schucknecht 2017](https://www.mdpi.com/2072-4292/9/5/463/htm
 
 - moved this to a google doc bc I think it better fits the format: [Biomass ndvi](https://docs.google.com/spreadsheets/d/10Ho6c1rY-XsFrJW0IkglQLQB5aOJko5kxVEMVrpXAL8/edit#gid=0)
 
-# 2/12/2021 Friday
+# February 12, 2021 Friday
 CL: cold again today. Kinderhaus drop off was a beast on the fingers 
 
-Morning spent doing what I don't know
+Morning spent doing what I don't know. Got an email 
 
-Goals/ To Do: 
+## Goals/ To Do: 
 1. clean files nathan sent to add to earth engine
+2. ~~Forward email from ForestGeo to Chase~~
+3. ~~Email Jordan back~~
+4. After ee running bb lookover the doc then either send it to Jordan again ORRRRRR set up the meeting with him 
+
+
+## Meeting with Shauhin and Andreas 
+hopefully will say - hyperion added 
+we should try an all the stuff allll the time thing aka for future me reading this, make a classification using bands from multiple satellites 
+
