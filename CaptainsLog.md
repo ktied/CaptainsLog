@@ -89,4 +89,4 @@ Morning spent doing what I don't know. Got an email
 ## Meeting with Shauhin and Andreas 
 hopefully will say - hyperion added 
 we should try an all the stuff allll the time thing aka for future me reading this, make a classification using bands from multiple satellites 
-
+the spreadsheet I'm using: https://docs.google.com/spreadsheets/d/1EeocgJVlpney-lPe7Kvb2k_CQ2UTCXWxkKGaVKaOM4U/edit#gid=1745530911
