@@ -71,3 +71,5 @@ links: https://serengetidata.weebly.com/vegetation.html
 
 Simple dee dimple: [Schucknecht 2017](https://www.mdpi.com/2072-4292/9/5/463/htm) The phenology-based seasonal cumulative Normalised Difference Vegetation Index (cNDVI), computed from 10-day image composites of the Moderate-resolution Imaging Spectroradiometer (MODIS) NDVI data, was used as proxy for biomass production. A linear regression model was fitted with multi-annual field measurements of herbaceous biomass at the end of the growing season.
 - ed. note: this is v similar to crop stuff 
+
+- moved this to a google doc bc I think it better fits the format: [Biomass ndvi](https://docs.google.com/spreadsheets/d/10Ho6c1rY-XsFrJW0IkglQLQB5aOJko5kxVEMVrpXAL8/edit#gid=0)
