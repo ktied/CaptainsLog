@@ -38,7 +38,7 @@ Cold today. figured out how to move this to git hopefully? Personal note: learne
 
 To Do (end of week, let's be real)
 1. clean files nathan sent to add to earth engine
-2. write to Daisy et al? 
+2. ~~write to Daisy et al?~~
 3. Get the Hyperion in the classifications
 4. https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
@@ -73,3 +73,11 @@ Simple dee dimple: [Schucknecht 2017](https://www.mdpi.com/2072-4292/9/5/463/htm
 - ed. note: this is v similar to crop stuff 
 
 - moved this to a google doc bc I think it better fits the format: [Biomass ndvi](https://docs.google.com/spreadsheets/d/10Ho6c1rY-XsFrJW0IkglQLQB5aOJko5kxVEMVrpXAL8/edit#gid=0)
+
+# 2/12/2021 Friday
+CL: cold again today. Kinderhaus drop off was a beast on the fingers 
+
+Morning spent doing what I don't know
+
+Goals/ To Do: 
+1. clean files nathan sent to add to earth engine
