@@ -109,8 +109,9 @@ Today is a different day bc its Tuesday, Here we go
 
 ## To Do 
 1. Prep for Thurs meeting 
- a. Replace figures 
- b. just make some judgement calls on the costs - whatever 
+
+ a) Replace figures 
+ b) just make some judgement calls on the costs - whatever 
  c. clean up text for readability 
  d. clean text for changes from rmse to accuracy and gain - this is a big ass project 
  e. tackle that soil moisture paragraph that you hate
