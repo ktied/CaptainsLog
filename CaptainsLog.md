@@ -112,8 +112,18 @@ Today is a different day bc its Tuesday, Here we go
  a. Replace figures 
  b. just make some judgement calls on the costs - whatever 
  c. clean up text for readability 
- d. clean text for changes from rmse to accuracy and gain 
- e. tackle that soil moisture
+ d. clean text for changes from rmse to accuracy and gain - this is a big ass project 
+ e. tackle that soil moisture paragraph that you hate
  f. decide on a comprehensive name for the transect measures - is it cob weight? idk lol (who am i)
-2. ~~Rerun cloud mask and mosaic for the planet images for S full scape hyperion comparison ~~
-3. 
+ g. add the figure comparing all 8 measures
+ h. add the table that R is always mad about the big one for the SI
+2. ~~Rerun cloud mask and mosaic for the planet images for S full scape hyperion comparison~~
+3. emails that have come to me. 
+4. email Nathan et al re GSM - I don't think we need to redo everything due to the grass/herbaceous cover situation. that shit is ridic/ 
+
+## this week in general 
+
+I'm sure I said I would look at the drone imagery by Andreas so I should do that - plan to on Fri maybe or move meeting to diff day 
+Talking to Daisy at some point I don't remember when
+I feel like we are generally always a heartbeat away from Tobi illness so get on shit 
+B laptop just died, so I should really get my shit together in getting a work one too
