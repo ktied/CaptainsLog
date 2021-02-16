@@ -116,7 +116,7 @@ Today is a different day bc its Tuesday, Here we go
  + clean text for changes from rmse to accuracy and gain - this is a big ass project 
  + tackle that soil moisture paragraph that you hate
  + decide on a comprehensive name for the transect measures - is it cob weight? idk lol (who am i)
- + add the figure comparing all 8 measures
+ + ~~add the figure comparing all 8 measures~~
  + add the table that R is always mad about the big one for the SI
 2. ~~Rerun cloud mask and mosaic for the planet images for S full scape hyperion comparison~~
 3. emails that have come to me. 
@@ -132,3 +132,5 @@ Talking to Daisy at some point I don't remember when
 I feel like we are generally always a heartbeat away from Tobi illness so get on shit 
 
 B laptop just died, so I should really get my shit together in getting a work one too
+
+Chocolate where are youuuuu
