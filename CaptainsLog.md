@@ -113,14 +113,15 @@ Today is a different day bc its Tuesday, Here we go
  + Replace figures 
  + just make some judgement calls on the costs - whatever 
  + clean up text for readability 
- d. clean text for changes from rmse to accuracy and gain - this is a big ass project 
- e. tackle that soil moisture paragraph that you hate
- f. decide on a comprehensive name for the transect measures - is it cob weight? idk lol (who am i)
- g. add the figure comparing all 8 measures
- h. add the table that R is always mad about the big one for the SI
+ + clean text for changes from rmse to accuracy and gain - this is a big ass project 
+ + tackle that soil moisture paragraph that you hate
+ + decide on a comprehensive name for the transect measures - is it cob weight? idk lol (who am i)
+ + add the figure comparing all 8 measures
+ + add the table that R is always mad about the big one for the SI
 2. ~~Rerun cloud mask and mosaic for the planet images for S full scape hyperion comparison~~
 3. emails that have come to me. 
-4. email Nathan et al re GSM - I don't think we need to redo everything due to the grass/herbaceous cover situation. that shit is ridic/ 
+4. email Nathan et al. re GSM - I don't think we need to redo everything due to the grass/herbaceous cover situation. that shit is ridic/ 
+5. order laptop w Instin
 
 ## this week in general 
 
