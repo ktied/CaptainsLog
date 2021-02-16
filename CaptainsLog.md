@@ -90,3 +90,30 @@ Morning spent doing what I don't know. Got an email
 hopefully will say - hyperion added 
 we should try an all the stuff allll the time thing aka for future me reading this, make a classification using bands from multiple satellites 
 the spreadsheet I'm using: https://docs.google.com/spreadsheets/d/1EeocgJVlpney-lPe7Kvb2k_CQ2UTCXWxkKGaVKaOM4U/edit#gid=1745530911
+
+# February 15, 2021 Monday
+
+okay this is a day later but here's what I did! 
+
+- struggled with the landcover type designations for the Mara survey 
+- conversed via email with Nathan about the LC type 
+- emailed w Jordan and Robert
+- R says ok to the denominator thing 
+- harassed S over whatsapp about plotting vs bayes 
+
+# February 16, 2021 Tuesday
+
+Captain Log: I definitely worked yesterday 
+
+Today is a different day bc its Tuesday, Here we go 
+
+## To Do 
+1. Prep for Thurs meeting 
+ a. Replace figures 
+ b. just make some judgement calls on the costs - whatever 
+ c. clean up text for readability 
+ d. clean text for changes from rmse to accuracy and gain 
+ e. tackle that soil moisture
+ f. decide on a comprehensive name for the transect measures - is it cob weight? idk lol (who am i)
+2. ~~Rerun cloud mask and mosaic for the planet images for S full scape hyperion comparison ~~
+3. 
