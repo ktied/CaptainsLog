@@ -134,3 +134,9 @@ I feel like we are generally always a heartbeat away from Tobi illness so get on
 B laptop just died, so I should really get my shit together in getting a work one too
 
 Chocolate where are youuuuu
+
+# February 17, 2021 Wednesday
+Today I must pick up my permit to live here 
+
+
+
