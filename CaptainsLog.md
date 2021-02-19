@@ -137,6 +137,46 @@ Chocolate where are youuuuu
 
 # February 17, 2021 Wednesday
 Today I must pick up my permit to live here 
+And I did
+
+I worked mainly on the figures and the text clean up 
+
+# February 18, 2021, Thursday
+
+CL: fog today, though less cold. I dropped off Tobi (wach) and he was delighted to be at daycare. I went to the dm
+
+## to do
+
+1. Ethiopia paper  
+ + ~~Replace figures~~ 
+ + Just the slope figs 
+ + The discussion is a whole situation 
+ + ~~just make some judgement calls on the costs - whatever~~ 
+ + clean text for changes from rmse to accuracy and gain - this is a big ass project :: Just extrapolation is left
+ + tackle that soil moisture paragraph that you hate - lets ask jordan
+ + decide on a comprehensive name for the transect measures - is it cob weight? idk lol (who am i) - lets ask jordan
+ + add the table that R is always mad about the big one for the SI
+
+2. email Kristen and Michael back 
+3. order laptop w Instin - ok I've chosen I think
+
+# February 19, 2021 Friday
+
+The week continues 
+
+We come to this, the crescendo (?) or just the end of our working week
+
+## To do today 
+
+1. ~~Michael email~~ 
+2. Ethiopia email to Tesfaye (AY, Ay Ay)
+3. Meet w Daisy and Chase
+4. Model the Drone stuff if possible
+5. Look into sun angle if I can 
+6. this weekend or next week: clean that discussion bb for Ethioooopia
+
+
+
 
 
 
