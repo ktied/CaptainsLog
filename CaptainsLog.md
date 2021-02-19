@@ -170,7 +170,7 @@ We come to this, the crescendo (?) or just the end of our working week
 
 1. ~~Michael email~~ 
 2. Ethiopia email to Tesfaye (AY, Ay Ay)
-3. Meet w Daisy and Chase
+3. ~~Meet w Daisy and Chase~~
 4. Model the Drone stuff if possible
 5. Look into sun angle if I can 
 6. this weekend or next week: clean that discussion bb for Ethioooopia
